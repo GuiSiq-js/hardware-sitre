@@ -1,0 +1,66 @@
+.faixa11 {
+    background-color: #07dac8;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    justify-content: space-around;
+    height:27em;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.faixa2{
+    background-color: #3164d1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    justify-content: space-around;
+    height:27em;
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+
+.div-faixa11 {
+    width: 20em;
+    font-size: 20px;
+}
+
+.texto11 {
+    margin-bottom: 10px;
+}
+
+.celular {
+    width: 300px;
+    height:350px;
+    padding-top: 100px;
+}
+
+.ram{
+    width: 400px;
+    height:350px;
+    padding-top: 100px;
+}
+
+.fonte{
+    width: 400px;
+    height:350px;
+    padding-top: 100px;
+}
+
+.titulo-faixa11 {
+    font-size: 60px;
+    width: 500px;
+    margin-bottom: 30px;
+    font-family: "WARREN3";
+}
+
+.imagem11 {
+    margin-right: 50px;
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'WARREN1';
+    src: url(../assets/fonts/WARREN1.woff2);
+}
+@font-face {
+    font-family: 'WARREN2';
+    src: url(../assets/fonts/WARREN2.woff2);
+}
+@font-face {
+    font-family: 'WARREN3';
+    src: url(../assets/fonts/WARREN3.woff2);
+}
+@font-face {
+    font-family: 'WARREN4';
+    src: url(../assets/fonts/WARREN4.woff2);
+}
+@font-face {
+    font-family: 'WARREN5';
+    src: url(../assets/fonts/WARREN5.woff2);
+}
+@font-face {
+    font-family: 'WARREN6';
+    src: url(../assets/fonts/WARREN6.woff2);
+}
+@font-face {
+    font-family: 'WARREN7';
+    src: url(../assets/fonts/WARREN7.woff2);
+}
+@font-face {
+    font-family: 'WARREN8';
+    src: url(../assets/fonts/WARREN8.woff2);
+}
+@font-face {
+    font-family: 'WARREN9';
+    src: url(../assets/fonts/WARREN9.woff2);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: px red solid;
+}
+
+a, a:link, a:visited, a:active{
+    text-decoration: none;
+    color: inherit;
+}
